@@ -38,4 +38,4 @@ button3.grid(row=0,column=12,columnspan=1,rowspan=1,padx=5,pady=5)
 button4=Button(top,text="/",command=divnumber)
 button4.grid(row=0,column=13,columnspan=1,rowspan=1,padx=5,pady=5)
 
-top.mainl
+top.main()
